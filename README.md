@@ -47,7 +47,9 @@ Currently, I am focusing on developing skills in data analysis, visualization, a
 ## Connect With Me
 
 GitHub: https://github.com/malodesiddhi62-collab  
-LinkedIn: (Add your LinkedIn here)
+LinkedIn: www.linkedin.com/in/siddhimalode22
+
+
 
 ---
 
