@@ -1,56 +1,92 @@
-# Siddhi Malode
+# Hi, I'm Siddhi Malode 👋
 
-🎓 B.Tech Artificial Intelligence & Data Science  
+🎓 B.Tech AI & Data Science Student  
 📍 Pune, India  
-💼 Aspiring Data Analyst | Data Science Enthusiast  
+💡 Interested in Artificial Intelligence, Data Science, and Environmental Research  
+🚀 Seeking Research Internships & Summer Internships (OIST, AI/ML, Data Science)
 
 ---
 
-## About Me
+# About Me
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science with a strong interest in data analytics and machine learning. I enjoy working with data, solving problems, and building projects that generate meaningful insights.
+I am a passionate AI & Data Science student interested in solving real-world problems using machine learning and data analysis. I enjoy working on research-oriented projects and exploring environmental and AI-based applications.
 
-Currently, I am focusing on developing skills in data analysis, visualization, and machine learning.
-
----
-
-## Skills
-
-- Python  
-- Pandas  
-- NumPy  
-- Data Visualization  
-- SQL  
-- Power BI  
-- Tableau  
-- Exploratory Data Analysis (EDA)  
+Currently, I am focused on:
+- Machine Learning
+- Data Science
+- Environmental AI
+- Research Projects
 
 ---
 
-## Projects
+# Projects
 
-- Demographic Data Analyzer (FreeCodeCamp)
-- Sea Level Predictor
-- Business Sales Analysis Dashboard
-- Student Performance Analysis
+### Air Quality Prediction using Machine Learning
+- Predict air pollution levels
+- Data preprocessing and visualization
+- Linear Regression model
 
----
-
-## Currently Learning
-
-- Machine Learning  
-- Advanced Data Analysis  
-- Data Visualization  
+🔗 Project Link  
+https://github.com/malodesiddhi62-collab/Air-Quality-Prediction-ML
 
 ---
 
-## Connect With Me
+### Climate Change Trend Analysis
+- Global temperature analysis
+- Moving average analysis
+- Prediction using Linear Regression
 
-GitHub: https://github.com/malodesiddhi62-collab  
-LinkedIn: www.linkedin.com/in/siddhimalode22
-
-
+🔗 Project Link  
+https://github.com/malodesiddhi62-collab/Climate-Change-Trend-Analysis
 
 ---
 
-⭐ Always open to internship opportunities and collaborations
+### Student Performance Prediction
+- Predict student academic performance
+- Feature encoding and regression model
+- Data visualization
+
+🔗 Project Link  
+(https://github.com/malodesiddhi62-collab/Student-Performance-Prediction-ML)
+
+---
+
+# Skills
+
+- Python
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Data Visualization
+
+---
+
+# Currently Learning
+
+- Deep Learning
+- Data Science
+- Research Methodology
+- Environmental AI
+
+---
+
+# Looking For
+
+- Research Internships
+- Summer Internships
+- AI/ML Internships
+- Data Science Internships
+
+---
+
+# Connect With Me
+
+LinkedIn: (www.linkedin.com/in/siddhimalode22)  
+GitHub: https://github.com/malodesiddhi62-collab
+
+---
+
+⭐ Open to collaborations and internship opportunities
